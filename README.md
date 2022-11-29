@@ -2,7 +2,7 @@
 
 This repository provides the official code to reproduce the results in the following study.
 
-Yoshihiro Okawa, Tomotake Sasaki, Hitoshi Yanami and Toru Namerikawa. "Safe Exploration Method for Reinforcement Learning under Existence of Disturbance". Submitted to European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2022.
+Yoshihiro Okawa, Tomotake Sasaki, Hitoshi Yanami and Toru Namerikawa. ["Safe Exploration Method for Reinforcement Learning under Existence of Disturbance"](https://2022.ecmlpkdd.org/index.php/papers-by-session/). European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2022. (arXiv preprint version is available [here](https://arxiv.org/abs/2209.15452))
 
 ## Requirements
 Python 3.8.10
