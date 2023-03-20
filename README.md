@@ -1,8 +1,8 @@
 # Safe Exploration Method for Reinforcement Learning under Existence of Disturbance
 
-This repository provides the official code to reproduce the results in the following study.
+This repository provides the official source code to reproduce the experimental results in the following study.
 
-Yoshihiro Okawa, Tomotake Sasaki, Hitoshi Yanami and Toru Namerikawa. ["Safe Exploration Method for Reinforcement Learning under Existence of Disturbance"](https://2022.ecmlpkdd.org/index.php/papers-by-session/). European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2022. (arXiv preprint version is available [here](https://arxiv.org/abs/2209.15452))
+Yoshihiro Okawa, Tomotake Sasaki, Hitoshi Yanami and Toru Namerikawa. ["Safe Exploration Method for Reinforcement Learning under Existence of Disturbance"](https://doi.org/10.1007/978-3-031-26412-2_9/). In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2022, pp. 132–147, 2022. (arXiv preprint version is available [here](https://arxiv.org/abs/2209.15452))
 
 ## Requirements
 Python 3.8.10
@@ -69,3 +69,16 @@ python ./code/robot_manipulator/demo_SafeEx_ECMLPKDD2022_Mani.py
 
 ## Licence
 This project is under the BSD 3-Clause Clear License. See [LICENSE](LICENSE) for details.
+
+## BibTeX
+```
+@inproceedings{okawa2022safe,
+author="Okawa, Yoshihiro and Sasaki, Tomotake and Yanami, Hitoshi and Namerikawa, Toru",
+title="Safe Exploration Method for Reinforcement Learning Under Existence of Disturbance",
+booktitle="Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2022",
+year="2022",
+pages="132--147",
+doi="10.1007/978-3-031-26412-2_9",
+note="The official source code is available at \url{https://github.com/FujitsuResearch/SafeExploration}."
+}
+```
