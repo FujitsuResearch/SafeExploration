@@ -2,7 +2,7 @@
 
 This repository provides the official source code to reproduce the experimental results in the following study.
 
-Yoshihiro Okawa, Tomotake Sasaki, Hitoshi Yanami and Toru Namerikawa. ["Safe Exploration Method for Reinforcement Learning under Existence of Disturbance"](https://doi.org/10.1007/978-3-031-26412-2_9/). In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2022, pp. 132–147, 2022. (arXiv preprint version is available [here](https://arxiv.org/abs/2209.15452))
+Yoshihiro Okawa, Tomotake Sasaki, Hitoshi Yanami and Toru Namerikawa. ["Safe Exploration Method for Reinforcement Learning under Existence of Disturbance"](https://doi.org/10.1007/978-3-031-26412-2_9). In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2022, pp. 132–147, 2022. (arXiv preprint version is available [here](https://arxiv.org/abs/2209.15452))
 
 ## Requirements
 Python 3.8.10
